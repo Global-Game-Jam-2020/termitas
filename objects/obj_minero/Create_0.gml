@@ -4,3 +4,4 @@ conMateriales = 0;
 personajeActual = false;
 spd = 2;
 image_speed = 0.4;
+luzEncedida = false;
