@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "78587db4-aa95-4529-91f3-ad540c1f9993",
+            "Value": {
+                "id": "7e06477b-0445-4f43-824e-d6f5801b0650",
+                "resourcePath": "objects\/obj_electricista\/obj_electricista.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "5083b2c7-3612-40bf-ab84-19d6353d2b27",
