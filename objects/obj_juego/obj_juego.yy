@@ -5,7 +5,7 @@
     "name": "obj_juego",
     "eventList": [
         {
-            "id": "4258ca3e-c60b-4896-b5c8-f0eee26015cf",
+            "id": "0ea3ce26-f3a7-4a4a-b9a2-2ee535527831",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
