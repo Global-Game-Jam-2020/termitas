@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1b55e868-8013-4390-93d0-a4e46f16fc2a",
+            "Value": {
+                "id": "96b0f88b-4abe-4a8c-9099-e821ce297a46",
+                "resourcePath": "scripts\/sc_movimiento\/sc_movimiento.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2f3635db-1e9c-4c26-a933-4a40bd939057",
             "Value": {
                 "id": "0fc7f421-313c-481f-8365-6dff76df1793",
@@ -111,10 +119,18 @@
             }
         },
         {
+            "Key": "57773d8c-dfa4-455b-8129-d89d6fd1df9b",
+            "Value": {
+                "id": "842c760e-8f4e-40a4-a0c3-fe5a911fe183",
+                "resourcePath": "objects\/obj_tiempo\/obj_tiempo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "578547a1-c25c-4123-9b3f-dba0dfd631db",
             "Value": {
                 "id": "540dd4a9-fd94-42c5-9717-7cfb6909b131",
-                "resourcePath": "scripts\\CambioDePersonaje\\CambioDePersonaje.yy",
+                "resourcePath": "scripts\/scr_cambio_personaje\/scr_cambio_personaje.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "a671f522-c056-4f8a-b265-ff9fb61cc76b",
+            "Value": {
+                "id": "810365dd-4f98-457f-ac88-4a3ac03807ad",
+                "resourcePath": "objects\/obj_minero\/obj_minero.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "d2134124-5870-49db-8104-eedcfe197536",
@@ -236,6 +260,14 @@
                 "id": "26b931a0-fceb-491c-a065-2edc8bb1d628",
                 "resourcePath": "views\/aa9f75a1-3111-495f-a08d-f13d6526ab20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b20fc8d3-7f3d-42b0-869b-03c4d8f23844",
+            "Value": {
+                "id": "bc7bab25-0e37-47ad-8bb3-701e780faac8",
+                "resourcePath": "scripts\/scr_puerta\/scr_puerta.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -298,7 +330,7 @@
             "Key": "ca798aff-d7a5-484b-97d3-43bcb5c4ffa8",
             "Value": {
                 "id": "3c98d36f-9bc9-4e94-b5c4-76356b45ae44",
-                "resourcePath": "objects\\obj_piedrero\\obj_piedrero.yy",
+                "resourcePath": "objects\/obj_piedrero\/obj_piedrero.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -324,6 +356,14 @@
                 "id": "7cfb968f-02f8-4891-8449-3ba5e8f43b3e",
                 "resourcePath": "views\/d4130e4f-e4f2-419d-a171-fac476a1a2c5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dec2f79a-5bce-4082-84de-0fe12bd3b5bc",
+            "Value": {
+                "id": "dadba1ba-12ee-4beb-b492-bd12d3d4e0a7",
+                "resourcePath": "scripts\/scr_luz\/scr_luz.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -384,7 +424,10 @@
         }
     ],
     "script_order": [
-        "578547a1-c25c-4123-9b3f-dba0dfd631db"
+        "578547a1-c25c-4123-9b3f-dba0dfd631db",
+        "1b55e868-8013-4390-93d0-a4e46f16fc2a",
+        "dec2f79a-5bce-4082-84de-0fe12bd3b5bc",
+        "b20fc8d3-7f3d-42b0-869b-03c4d8f23844"
     ],
     "tutorial": ""
 }
