@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "e5eeedd9-1ad6-459e-bb7d-23baf5988cef",
+            "Value": {
+                "id": "4d391eae-7dda-48b2-bdb3-ec01169f366b",
+                "resourcePath": "sounds\/snd_tema_juego\/snd_tema_juego.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e89df191-a3b7-4005-97fd-a17f2609c406",
             "Value": {
                 "id": "23fb4cc9-bdee-4318-9d1d-fd5d0d883d85",
