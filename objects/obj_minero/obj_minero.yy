@@ -1,28 +1,18 @@
 {
-    "id": "a671f522-c056-4f8a-b265-ff9fb61cc76b",
+    "id": "c9a3f10d-9e59-4f9a-9c79-f7d01ad2dce1",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_minero",
     "eventList": [
         {
-            "id": "ae176e58-d359-457b-9a0e-f851f7737cff",
+            "id": "fcfb8f0b-062d-4f17-80d0-851bdafad5e6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "a671f522-c056-4f8a-b265-ff9fb61cc76b"
-        },
-        {
-            "id": "d6ce55bc-4dce-4716-8122-acf78335d8ef",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "a671f522-c056-4f8a-b265-ff9fb61cc76b"
+            "m_owner": "c9a3f10d-9e59-4f9a-9c79-f7d01ad2dce1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "73ce5bf8-cdb5-46b1-a338-0e710193a7ed",
+    "spriteId": "cb29a0a9-54f4-440a-8f27-f9e93da85a6b",
     "visible": true
 }

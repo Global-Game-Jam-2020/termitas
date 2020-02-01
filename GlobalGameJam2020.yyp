@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "31ee32f4-33c5-4c92-8b45-3d24bb845274",
-            "Value": {
-                "id": "c0eb38bd-b0c6-4bee-bd9a-6273b4620734",
-                "resourcePath": "objects\/obj_minero\/obj_minero.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "323bbe2e-b511-462e-85fd-72ca433998f8",
             "Value": {
                 "id": "42d6a83e-e87d-404d-98e4-f3ad2ab24039",
@@ -239,14 +231,6 @@
             }
         },
         {
-            "Key": "a671f522-c056-4f8a-b265-ff9fb61cc76b",
-            "Value": {
-                "id": "810365dd-4f98-457f-ac88-4a3ac03807ad",
-                "resourcePath": "objects\/obj_minero\/obj_minero.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "d2134124-5870-49db-8104-eedcfe197536",
@@ -316,6 +300,14 @@
                 "id": "806e6e41-1d3c-416a-8867-f1416ff20c9d",
                 "resourcePath": "views\/bee3fe7d-7a24-4e4b-a8e0-518b36ce9341.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c9a3f10d-9e59-4f9a-9c79-f7d01ad2dce1",
+            "Value": {
+                "id": "f094fc65-9c7a-4c4f-b8a0-2294334e8ca7",
+                "resourcePath": "objects\/obj_minero\/obj_minero.yy",
+                "resourceType": "GMObject"
             }
         },
         {
