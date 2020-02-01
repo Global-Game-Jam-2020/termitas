@@ -1,5 +1,4 @@
 
-
 if(personajeActual="obj_electricista")
 {
   personajeActual="obj_piedrero"
