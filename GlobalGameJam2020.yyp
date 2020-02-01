@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "a3d65778-126f-49ef-8de8-20ea765872fb",
+            "Value": {
+                "id": "cc1f1edd-8d6f-4e5c-a1b4-f68f032de94a",
+                "resourcePath": "objects\/obj_puerta\/obj_puerta.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "d2134124-5870-49db-8104-eedcfe197536",
