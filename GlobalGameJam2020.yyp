@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0b5b0130-8224-40b3-9708-d2ded2b1ea7b",
+            "Value": {
+                "id": "2c6eb96a-1289-4a2e-9d93-acf48a1c0ac2",
+                "resourcePath": "objects\/obj_luz\/obj_luz.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ed89ff3-6286-4b44-8cb0-f864b8f9ed1d",
             "Value": {
                 "id": "75bcf059-d6d3-474e-b501-da0d7c5165a0",
@@ -156,6 +164,14 @@
                 "id": "be0acf2d-438a-47b1-8e3c-ae2c65f3e697",
                 "resourcePath": "views\/3beba031-c75b-42e9-a4a4-a011abf37217.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "412845b1-3636-4b40-8157-adffad1efdba",
+            "Value": {
+                "id": "a0e5e644-f7c1-48f9-aa87-c0a063a62a78",
+                "resourcePath": "shaders\/sh_dyn_lighting\/sh_dyn_lighting.yy",
+                "resourceType": "GMShader"
             }
         },
         {
