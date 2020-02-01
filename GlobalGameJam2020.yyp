@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "5e5e7322-f58b-479b-99bc-901d0f97e518",
+            "Value": {
+                "id": "14c78c02-5989-4a7a-979a-4b1a1fe766ee",
+                "resourcePath": "objects\/obj_piedrero\/obj_piedrero.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cef01d8-7c9e-4bc3-b52b-bd107f66d8c3",
             "Value": {
                 "id": "de383559-a3de-45ea-9aff-1f0f013a1c60",
