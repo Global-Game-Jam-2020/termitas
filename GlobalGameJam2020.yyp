@@ -31,11 +31,43 @@
     },
     "resources": [
         {
+            "Key": "0099a4b5-edff-49de-b98b-cbd6c62fd7f4",
+            "Value": {
+                "id": "a931183f-346b-4756-abf9-b4a6c855cac2",
+                "resourcePath": "scripts\/scr_sub_menu\/scr_sub_menu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "03a3ff59-9ae5-40b3-8332-e1564ded6aeb",
             "Value": {
                 "id": "a4a3508f-afed-4e88-998f-cbb3fb24a1ae",
                 "resourcePath": "sprites\/s_player_dr\/s_player_dr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "04fab7a9-58fc-4514-820d-3b91b69c700b",
+            "Value": {
+                "id": "bbea43b5-17cd-4b8e-a3a3-3e0bdb152b4b",
+                "resourcePath": "scripts\/src_vision_electricista\/src_vision_electricista.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0899698a-42fb-4e69-a11c-9d0565d9aedd",
+            "Value": {
+                "id": "6d19659f-d5bf-4117-b080-ea2eca60e7ac",
+                "resourcePath": "objects\/obj_puente\/obj_puente.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0ed89ff3-6286-4b44-8cb0-f864b8f9ed1d",
+            "Value": {
+                "id": "75bcf059-d6d3-474e-b501-da0d7c5165a0",
+                "resourcePath": "objects\/obj_pieza_taladro\/obj_pieza_taladro.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -50,7 +82,39 @@
             "Key": "1b55e868-8013-4390-93d0-a4e46f16fc2a",
             "Value": {
                 "id": "96b0f88b-4abe-4a8c-9099-e821ce297a46",
-                "resourcePath": "scripts\/sc_movimiento\/sc_movimiento.yy",
+                "resourcePath": "scripts\/scr_movimiento\/scr_movimiento.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2363fe92-a794-4b6c-a5df-3266975e1639",
+            "Value": {
+                "id": "3392c565-ae3e-4b5f-8199-9f4a44a3000d",
+                "resourcePath": "scripts\/scr_materiales\/scr_materiales.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2ca454d7-5292-4645-a29c-0a91abf60867",
+            "Value": {
+                "id": "1daff808-029f-4ab9-8d99-1f368f11b3a1",
+                "resourcePath": "scripts\/src_destruccion_piedra\/src_destruccion_piedra.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2de8ad18-e92e-4c3b-96a7-8e65ad24590c",
+            "Value": {
+                "id": "6e9a7c5c-fecd-453e-a87d-c338b072c1c6",
+                "resourcePath": "scripts\/src_agua\/src_agua.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2e5f24da-b800-48d4-861a-68393c19e0db",
+            "Value": {
+                "id": "532686b6-e0d8-4909-83e7-8e452ae2d792",
+                "resourcePath": "scripts\/src_convierte_piedra_materiales\/src_convierte_piedra_materiales.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -60,6 +124,14 @@
                 "id": "0fc7f421-313c-481f-8365-6dff76df1793",
                 "resourcePath": "views\/2f3635db-1e9c-4c26-a933-4a40bd939057.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3049ceac-fe84-45c2-82f8-4ea14d4b2b5b",
+            "Value": {
+                "id": "eb270166-2b95-41ec-be92-d40814b0577a",
+                "resourcePath": "objects\/obj_materiales_minero\/obj_materiales_minero.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,6 +175,14 @@
             }
         },
         {
+            "Key": "4fccd816-4030-407b-a2c4-e3ae1073038b",
+            "Value": {
+                "id": "1e439fbd-2a0f-4e00-b751-f1ee99ca44c0",
+                "resourcePath": "scripts\/src_materiales_minero\/src_materiales_minero.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "51574fef-76b1-4a60-9c82-1e86fc1b9a1e",
             "Value": {
                 "id": "a90b802b-81a8-4efe-8d2e-79eab80eab98",
@@ -127,6 +207,22 @@
             }
         },
         {
+            "Key": "586a3780-0014-4cdb-be98-cc144a464cbc",
+            "Value": {
+                "id": "bc0fd610-3437-4882-bff4-08b64a393cf0",
+                "resourcePath": "scripts\/scr_silueta_personaje\/scr_silueta_personaje.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5cc237c9-0d97-4b58-b100-4b54353cc131",
+            "Value": {
+                "id": "4b4ba437-d410-4826-ac3d-763db402d75f",
+                "resourcePath": "sprites\/spr_materiales_piedrero\/spr_materiales_piedrero.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6cef01d8-7c9e-4bc3-b52b-bd107f66d8c3",
             "Value": {
                 "id": "de383559-a3de-45ea-9aff-1f0f013a1c60",
@@ -135,11 +231,27 @@
             }
         },
         {
+            "Key": "6fa1b466-90e1-48e9-9d7f-d6c41c0d6508",
+            "Value": {
+                "id": "237c04ec-2006-4957-b7a3-717e01030dc0",
+                "resourcePath": "sprites\/spr_agua\/spr_agua.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73ce5bf8-cdb5-46b1-a338-0e710193a7ed",
             "Value": {
                 "id": "d340c8f3-c3b9-4fa8-af98-75b5de16fa63",
                 "resourcePath": "sprites\/s_player_r\/s_player_r.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7445b548-5830-455a-a7fa-a2f2522ad0ce",
+            "Value": {
+                "id": "547935bf-7115-4b86-9aa7-fa05376f8598",
+                "resourcePath": "rooms\/room1\/room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -175,11 +287,51 @@
             }
         },
         {
+            "Key": "7e6e47e1-d527-48a1-bb22-6a3d2645c9b4",
+            "Value": {
+                "id": "909fa286-eaee-43c3-8a33-06e708dbb7a6",
+                "resourcePath": "rooms\/room2\/room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7f2c8e38-7e18-4fe7-bc63-4fe56b21e3ba",
+            "Value": {
+                "id": "4659c6f7-3597-4cb8-93a2-42586e225c15",
+                "resourcePath": "sprites\/spr_bombillo\/spr_bombillo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "f8b8d96a-5059-448f-93ed-4f806e9a41f0",
                 "resourcePath": "options\/ios\/options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "88cbb5a1-0366-487f-bc78-a4995e922a3b",
+            "Value": {
+                "id": "9cb01a0f-d167-40ab-9cc4-78ce4ac3ac49",
+                "resourcePath": "scripts\/src_contador_pieza\/src_contador_pieza.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "904c2810-0562-4f8d-9c99-cbf28a8eecb4",
+            "Value": {
+                "id": "02d0a035-1ec4-4799-a249-606373324a75",
+                "resourcePath": "sprites\/spr_taladro\/spr_taladro.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "912403c9-0573-42fd-8789-2b6dbd202388",
+            "Value": {
+                "id": "af4ef4ce-9ca6-4b9a-9ef2-416180a84cde",
+                "resourcePath": "sprites\/spr_electricista\/spr_electricista.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -212,6 +364,38 @@
                 "id": "86c4b0b3-722c-4b96-95e2-bf7c224315da",
                 "resourcePath": "views\/9752a128-c231-4d11-8fe6-16e95df3a207.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "993aea50-78f6-4a12-bc49-52a68fc933a1",
+            "Value": {
+                "id": "9b9c27d7-a363-471e-8f69-ae589edc3670",
+                "resourcePath": "rooms\/room_creditos\/room_creditos.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9b38cd55-c637-4678-b39d-c44de82f41ff",
+            "Value": {
+                "id": "20ed0bbc-cb1c-4ba9-b7ef-4becbd674287",
+                "resourcePath": "objects\/obj_materiales_piedrero\/obj_materiales_piedrero.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9dc8ace4-44ca-4024-9a7d-5b2ec081a8c1",
+            "Value": {
+                "id": "7fbd4c65-b78a-4848-b1db-9cd922ad2ffb",
+                "resourcePath": "objects\/obj_piedra\/obj_piedra.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9f902057-b317-4706-97a9-8f3fcb228bce",
+            "Value": {
+                "id": "47a5ab0e-9d98-4e41-a208-d43c5773180e",
+                "resourcePath": "scripts\/src_recoleccion_piedrero\/src_recoleccion_piedrero.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -287,6 +471,14 @@
             }
         },
         {
+            "Key": "bcdd0ea4-7c10-400e-b90a-abafb98f6214",
+            "Value": {
+                "id": "5862c79b-e26e-4cfc-82f1-60f4a6e6ec6c",
+                "resourcePath": "scripts\/scr_limite_pantalla\/scr_limite_pantalla.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "bd648c82-9092-46b6-9a14-3147d1292a3a",
             "Value": {
                 "id": "dfccd1e2-9239-4a32-a191-2a30e5071e98",
@@ -300,6 +492,14 @@
                 "id": "806e6e41-1d3c-416a-8867-f1416ff20c9d",
                 "resourcePath": "views\/bee3fe7d-7a24-4e4b-a8e0-518b36ce9341.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c95e684d-857e-4a37-8400-b71d0fae3851",
+            "Value": {
+                "id": "0f4dc59c-8afa-4d61-8e73-24505f17c1a8",
+                "resourcePath": "scripts\/src_interaccion_piedra\/src_interaccion_piedra.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -343,6 +543,30 @@
             }
         },
         {
+            "Key": "cd056780-242b-4905-8cf8-ddbfe8e54e38",
+            "Value": {
+                "id": "e74d5e76-1e66-4893-becb-c673702f2c2d",
+                "resourcePath": "scripts\/scr_movimiento_taladro\/scr_movimiento_taladro.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d0445a6b-44e4-4802-9568-4ce0855fcc78",
+            "Value": {
+                "id": "555ce585-82a2-458c-b2fa-af70e8006c24",
+                "resourcePath": "sprites\/spr_piedrero\/spr_piedrero.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d1cec6af-4c55-4b74-9dd3-e4b4db1fcd2f",
+            "Value": {
+                "id": "24594b7f-f524-4161-9983-90e278af22c6",
+                "resourcePath": "objects\/obj_bombillo\/obj_bombillo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d4130e4f-e4f2-419d-a171-fac476a1a2c5",
             "Value": {
                 "id": "7cfb968f-02f8-4891-8449-3ba5e8f43b3e",
@@ -351,11 +575,27 @@
             }
         },
         {
+            "Key": "dd1fe7b2-eaf5-4a27-b50f-7417bff29d8c",
+            "Value": {
+                "id": "83b83a5b-e710-4bd4-94c8-7ffa0236ddc4",
+                "resourcePath": "objects\/obj_agua\/obj_agua.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dec2f79a-5bce-4082-84de-0fe12bd3b5bc",
             "Value": {
                 "id": "dadba1ba-12ee-4beb-b492-bd12d3d4e0a7",
                 "resourcePath": "scripts\/scr_luz\/scr_luz.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e0de5c78-6108-4d10-a51b-2ec1e8a04dbf",
+            "Value": {
+                "id": "5b6135ba-71b9-4cae-93df-fb4ace3ef193",
+                "resourcePath": "sprites\/spr_minero\/spr_minero.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -375,11 +615,27 @@
             }
         },
         {
+            "Key": "e89df191-a3b7-4005-97fd-a17f2609c406",
+            "Value": {
+                "id": "23fb4cc9-bdee-4318-9d1d-fd5d0d883d85",
+                "resourcePath": "objects\/obj_taladro\/obj_taladro.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb15c8f4-8fb4-4133-9670-299249629d0b",
             "Value": {
                 "id": "f3c4d4fe-ff6e-4c73-96e0-79c76a995810",
                 "resourcePath": "views\/eb15c8f4-8fb4-4133-9670-299249629d0b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed7098d8-32ec-4e93-9267-344a03ebabbc",
+            "Value": {
+                "id": "c530dc72-27d5-444d-a1e4-aa1e6ca6a8cb",
+                "resourcePath": "sprites\/spr_puente\/spr_puente.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -399,6 +655,14 @@
             }
         },
         {
+            "Key": "f40c2309-cb56-4966-b5df-481523baa2f6",
+            "Value": {
+                "id": "2d07b1a0-4f49-4744-a2e0-38417616e61d",
+                "resourcePath": "views\/f40c2309-cb56-4966-b5df-481523baa2f6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "95ef361b-7b18-454e-be2f-fe0aad4f8c86",
@@ -413,13 +677,43 @@
                 "resourcePath": "sprites\/s_player_ur\/s_player_ur.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "f4cb6d69-4fc6-4e90-827c-2ac78f461084",
+            "Value": {
+                "id": "de3117a6-7a8c-4b83-908d-95f6159cdc63",
+                "resourcePath": "scripts\/src_arreglar_bombilla\/src_arreglar_bombilla.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f8b01255-d8ed-4b13-8e06-90f84fbf7fae",
+            "Value": {
+                "id": "61d972ca-52fe-4320-8e5a-e980f1f4bbbb",
+                "resourcePath": "sprites\/spr_materiales_minero\/spr_materiales_minero.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
         "578547a1-c25c-4123-9b3f-dba0dfd631db",
         "1b55e868-8013-4390-93d0-a4e46f16fc2a",
         "dec2f79a-5bce-4082-84de-0fe12bd3b5bc",
-        "b20fc8d3-7f3d-42b0-869b-03c4d8f23844"
+        "b20fc8d3-7f3d-42b0-869b-03c4d8f23844",
+        "2363fe92-a794-4b6c-a5df-3266975e1639",
+        "04fab7a9-58fc-4514-820d-3b91b69c700b",
+        "f4cb6d69-4fc6-4e90-827c-2ac78f461084",
+        "c95e684d-857e-4a37-8400-b71d0fae3851",
+        "2ca454d7-5292-4645-a29c-0a91abf60867",
+        "9f902057-b317-4706-97a9-8f3fcb228bce",
+        "2e5f24da-b800-48d4-861a-68393c19e0db",
+        "0099a4b5-edff-49de-b98b-cbd6c62fd7f4",
+        "2de8ad18-e92e-4c3b-96a7-8e65ad24590c",
+        "4fccd816-4030-407b-a2c4-e3ae1073038b",
+        "88cbb5a1-0366-487f-bc78-a4995e922a3b",
+        "cd056780-242b-4905-8cf8-ddbfe8e54e38",
+        "bcdd0ea4-7c10-400e-b90a-abafb98f6214",
+        "586a3780-0014-4cdb-be98-cc144a464cbc"
     ],
     "tutorial": ""
 }

@@ -1,8 +1,8 @@
 {
-    "id": "1b55e868-8013-4390-93d0-a4e46f16fc2a",
+    "id": "88cbb5a1-0366-487f-bc78-a4995e922a3b",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "sc_movimiento",
+    "name": "src_contador_pieza",
     "IsCompatibility": false,
     "IsDnD": false
 }
