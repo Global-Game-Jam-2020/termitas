@@ -1,18 +1,28 @@
 {
-    "id": "5e5e7322-f58b-479b-99bc-901d0f97e518",
+    "id": "ca798aff-d7a5-484b-97d3-43bcb5c4ffa8",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_piedrero",
     "eventList": [
         {
-            "id": "269b1a61-1d39-48df-bbe9-49160efdc9c4",
+            "id": "dc576332-60a1-4248-b0c7-b90c1a7577fd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "5e5e7322-f58b-479b-99bc-901d0f97e518"
+            "m_owner": "ca798aff-d7a5-484b-97d3-43bcb5c4ffa8"
+        },
+        {
+            "id": "1f2cf944-bf89-4310-a9fa-cca41095e4de",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "ca798aff-d7a5-484b-97d3-43bcb5c4ffa8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "bd648c82-9092-46b6-9a14-3147d1292a3a",
+    "spriteId": "73ce5bf8-cdb5-46b1-a338-0e710193a7ed",
     "visible": true
 }

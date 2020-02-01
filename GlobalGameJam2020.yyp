@@ -111,11 +111,11 @@
             }
         },
         {
-            "Key": "5e5e7322-f58b-479b-99bc-901d0f97e518",
+            "Key": "578547a1-c25c-4123-9b3f-dba0dfd631db",
             "Value": {
-                "id": "14c78c02-5989-4a7a-979a-4b1a1fe766ee",
-                "resourcePath": "objects\/obj_piedrero\/obj_piedrero.yy",
-                "resourceType": "GMObject"
+                "id": "540dd4a9-fd94-42c5-9717-7cfb6909b131",
+                "resourcePath": "scripts\\CambioDePersonaje\\CambioDePersonaje.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -279,11 +279,27 @@
             }
         },
         {
+            "Key": "bee3fe7d-7a24-4e4b-a8e0-518b36ce9341",
+            "Value": {
+                "id": "806e6e41-1d3c-416a-8867-f1416ff20c9d",
+                "resourcePath": "views\/bee3fe7d-7a24-4e4b-a8e0-518b36ce9341.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ca2f0e54-ee41-46e0-b954-c36a4c3b650e",
             "Value": {
                 "id": "767cf4b0-53e3-4b24-9b46-712b50431147",
                 "resourcePath": "views\/ca2f0e54-ee41-46e0-b954-c36a4c3b650e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ca798aff-d7a5-484b-97d3-43bcb5c4ffa8",
+            "Value": {
+                "id": "3c98d36f-9bc9-4e94-b5c4-76356b45ae44",
+                "resourcePath": "objects\\obj_piedrero\\obj_piedrero.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -308,14 +324,6 @@
                 "id": "7cfb968f-02f8-4891-8449-3ba5e8f43b3e",
                 "resourcePath": "views\/d4130e4f-e4f2-419d-a171-fac476a1a2c5.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "dd0a96db-1cf5-40ba-8de3-223ede2b0372",
-            "Value": {
-                "id": "d2aa3193-820c-4777-b3e9-2ba96e7c8b2e",
-                "resourcePath": "objects\/o_char\/o_char.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -376,7 +384,7 @@
         }
     ],
     "script_order": [
-        
+        "578547a1-c25c-4123-9b3f-dba0dfd631db"
     ],
     "tutorial": ""
 }

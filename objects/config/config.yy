@@ -1,18 +1,18 @@
 {
-    "id": "78587db4-aa95-4529-91f3-ad540c1f9993",
+    "id": "98e57abe-8787-491e-a439-20f9ede1d499",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_electricista",
+    "name": "config",
     "eventList": [
         {
-            "id": "eeba353f-915a-4688-a352-08e5e193e6bc",
+            "id": "41d52630-74b9-471e-915e-5f4b414634aa",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "78587db4-aa95-4529-91f3-ad540c1f9993"
+            "m_owner": "98e57abe-8787-491e-a439-20f9ede1d499"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
