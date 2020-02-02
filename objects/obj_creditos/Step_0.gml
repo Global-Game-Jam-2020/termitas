@@ -5,5 +5,6 @@
 var back_id = layer_background_get_id(lay_id);
 var lay_back_sprite = layer_background_get_sprite(back_id);
 var index_id = layer_background_index(back_id, 3);*/
-
-	
+if (image_index >= image_number - 1) {
+	image_index = 3;
+}
