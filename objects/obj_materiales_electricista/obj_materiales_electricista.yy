@@ -1,38 +1,38 @@
 {
-    "id": "17003d72-f2bd-4c77-8e06-a21698de0fcb",
+    "id": "84459086-9e0b-4ae4-9732-a4eb615643f9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_camara",
+    "name": "obj_materiales_electricista",
     "eventList": [
         {
-            "id": "9084c21b-8152-44bd-ba1c-fa7a53af00c4",
+            "id": "29538358-3944-47e1-b6fd-3f45cf3bbcde",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "17003d72-f2bd-4c77-8e06-a21698de0fcb"
+            "m_owner": "84459086-9e0b-4ae4-9732-a4eb615643f9"
         },
         {
-            "id": "0d97a66b-a94f-4624-949b-2d09f84dab3a",
+            "id": "d5ac7ca8-3fd2-456e-a5bc-a5bb4602a90a",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "17003d72-f2bd-4c77-8e06-a21698de0fcb"
+            "m_owner": "84459086-9e0b-4ae4-9732-a4eb615643f9"
         },
         {
-            "id": "3ca35556-705c-48cf-b4b4-4a4ee468a453",
+            "id": "d1e764d3-6e4f-43b7-966c-39083653a0b2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 13,
-            "eventtype": 9,
-            "m_owner": "17003d72-f2bd-4c77-8e06-a21698de0fcb"
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "84459086-9e0b-4ae4-9732-a4eb615643f9"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "f450091a-e6d6-44e6-893a-2e9fcd29bdc8",
     "visible": true
 }

@@ -21,8 +21,6 @@ if (object_get_name(object_index) == "obj_electricista") {
 		!obj_bombillo.estaPrendido
 	) {
 		
-		obj_electricista.materiales -= 1;
-		
 		obj_bombillo.estaPrendido  = true;
 		
 	}
