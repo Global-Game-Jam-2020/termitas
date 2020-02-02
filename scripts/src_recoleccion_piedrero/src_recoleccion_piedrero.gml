@@ -6,5 +6,4 @@ if (
 ) {
 	obj_piedrero.materiales += 1;
 	obj_materiales_piedrero.estaRecolectado = true;
-	audio_play_sound(snd_termita_piedrera,1,false);
 }
