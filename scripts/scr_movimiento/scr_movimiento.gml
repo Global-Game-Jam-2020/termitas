@@ -22,17 +22,7 @@ if ( argument0 == true || object_get_name(object_index) == "obj_electricista" ) 
 		if place_empty(x, y + moveY, oIso2)
 		y += moveY;
 	
-		if place_empty(x+moveX, y, obj_agua)
-		x += moveX;
-	
-		if place_empty(x, y + moveY, obj_agua)
-		y += moveY;
 		
-		if place_empty(x+moveX, y, o_aguaTop)
-		x += moveX;
-	
-		if place_empty(x, y + moveY, o_aguaTop)
-		y += moveY;
 		//set sprite
 		switch(dir){
 			case 0: sprite_index = s_player_r; break;
