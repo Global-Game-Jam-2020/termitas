@@ -7,3 +7,4 @@ obj_electricista.materiales = 2;
 obj_piedrero.materiales = 0;
 cantidadBombillos=3;
 BombillosPrendidos=0;
+oscuridad=true;
