@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_pieza_taladro2",
     "eventList": [
-        
+        {
+            "id": "85c839c6-8425-46a2-afce-3dbc256d3e79",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
+            "m_owner": "0ed89ff3-6286-4b44-8cb0-f864b8f9ed1d"
+        },
+        {
+            "id": "25170c09-1321-42d7-bea1-939f579c638d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0ed89ff3-6286-4b44-8cb0-f864b8f9ed1d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

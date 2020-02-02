@@ -8,3 +8,10 @@ obj_piedrero.materiales = 0;
 cantidadBombillos=3;
 BombillosPrendidos=0;
 oscuridad=true;
+if (room == r_Three) {
+	obj_taladro.totalPiezas = 3;
+	obj_taladro.piezas = 0;
+	obj_pieza_taladro1.estaRecolectado = false;
+	obj_pieza_taladro2.estaRecolectado = false;
+	obj_pieza_taladro3.estaRecolectado = false;
+}
