@@ -783,6 +783,14 @@
             }
         },
         {
+            "Key": "e560e30e-1347-410c-ad9c-519260fc859f",
+            "Value": {
+                "id": "89d4a18d-928d-4bc9-89eb-d79af891b1ab",
+                "resourcePath": "sounds\/snd_pasos\/snd_pasos.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e5eeedd9-1ad6-459e-bb7d-23baf5988cef",
             "Value": {
                 "id": "4d391eae-7dda-48b2-bdb3-ec01169f366b",

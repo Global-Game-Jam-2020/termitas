@@ -1,5 +1,6 @@
 if ( argument0 == true || object_get_name(object_index) == "obj_electricista" ) {
 	depth = room_height - y;
+	
 
 	hInput = keyboard_check(vk_right) - keyboard_check(vk_left);
 	vInput = keyboard_check(vk_down) - keyboard_check(vk_up);
