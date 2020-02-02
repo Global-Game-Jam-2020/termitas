@@ -1,5 +1,5 @@
 {
-    "id": "dd1fe7b2-eaf5-4a27-b50f-7417bff29d8c",
+    "id": "33631528-4393-42d3-aee5-ca606099e954",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_agua",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "6b91a3da-26ce-498c-a175-9fc91edc1b1d",
     "visible": true
 }

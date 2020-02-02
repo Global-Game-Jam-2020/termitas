@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_bombillo",
     "eventList": [
-        
+        {
+            "id": "a5998f0f-72eb-492b-b4ae-4bef71afd3d0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "d1cec6af-4c55-4b74-9dd3-e4b4db1fcd2f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "7b041991-c106-47b7-bdce-0d7d0bd8844e",
     "visible": true
 }
