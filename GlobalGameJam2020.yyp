@@ -250,7 +250,7 @@
             "Key": "30ac6f33-b7a5-4696-b373-4030e06d2e9f",
             "Value": {
                 "id": "8b404ac0-e719-4459-aae7-3e74f619e7c5",
-                "resourcePath": "sounds\\snd_Termita_Sin_Materiaes\\snd_Termita_Sin_Materiaes.yy",
+                "resourcePath": "sounds\/snd_Termita_Sin_Materiaes\/snd_Termita_Sin_Materiaes.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -332,6 +332,14 @@
                 "id": "d77bdcae-de78-4e29-98cd-b8bc0b1a5b12",
                 "resourcePath": "objects\/oIso1\/oIso1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "480b8a87-e4be-40b1-a3b8-c7713dcf793b",
+            "Value": {
+                "id": "571cbe5f-78f9-47c6-90ba-9d3d7a88fab5",
+                "resourcePath": "rooms\/r_creditos\/r_creditos.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -743,6 +751,14 @@
             }
         },
         {
+            "Key": "9940a91e-40fe-4876-bb19-60ceeb3e2360",
+            "Value": {
+                "id": "29961b59-67b9-4dc3-aed5-83f9c868d6eb",
+                "resourcePath": "sounds\/snd_tema_creditos\/snd_tema_creditos.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9a838e71-b48a-487c-b23d-fad4310a3be9",
             "Value": {
                 "id": "761c84e6-e243-40a4-979c-15c1ad4a0581",
@@ -1075,6 +1091,14 @@
             "Value": {
                 "id": "555ce585-82a2-458c-b2fa-af70e8006c24",
                 "resourcePath": "sprites\/spr_piedrero\/spr_piedrero.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d049f26f-e5bf-4693-a473-5cc4952f866f",
+            "Value": {
+                "id": "0911222d-c76e-485f-976f-7415e8ad436d",
+                "resourcePath": "sprites\/spr_cerrar\/spr_cerrar.yy",
                 "resourceType": "GMSprite"
             }
         },
