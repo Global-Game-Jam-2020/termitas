@@ -1,28 +1,38 @@
 {
-    "id": "1bff7560-099c-40a8-950b-0b47cc70b0a9",
+    "id": "fb3d2b3e-8020-4756-b420-b20d1a34f171",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "camara",
+    "name": "obj_camara",
     "eventList": [
         {
-            "id": "2e255af0-cd5e-4abc-b8ba-f8be29da061a",
+            "id": "54747c9b-05c8-489c-a269-b87884054295",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "1bff7560-099c-40a8-950b-0b47cc70b0a9"
+            "m_owner": "fb3d2b3e-8020-4756-b420-b20d1a34f171"
         },
         {
-            "id": "216ac2cb-8941-44bd-aa20-035b82ff9dd7",
+            "id": "0ab33635-8890-486f-a569-6439ced7b5be",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "1bff7560-099c-40a8-950b-0b47cc70b0a9"
+            "m_owner": "fb3d2b3e-8020-4756-b420-b20d1a34f171"
+        },
+        {
+            "id": "56c7b199-d3a9-4d68-ae52-17378fe19eae",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 13,
+            "eventtype": 9,
+            "m_owner": "fb3d2b3e-8020-4756-b420-b20d1a34f171"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,22 +51,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "dfe39f17-603b-433f-8e44-9052e12d2568",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "variable_name",
-            "varType": 0
-        }
-    ],
+    "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
