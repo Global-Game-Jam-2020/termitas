@@ -146,7 +146,7 @@
             "Key": "17003d72-f2bd-4c77-8e06-a21698de0fcb",
             "Value": {
                 "id": "ef232b02-01fc-4375-898f-5441126b184b",
-                "resourcePath": "objects\\obj_camara\\obj_camara.yy",
+                "resourcePath": "objects\/obj_camara\/obj_camara.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -591,6 +591,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "8753217b-9848-48b8-8dbe-37b97b917214",
+                "resourcePath": "options\/ios\/options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "84459086-9e0b-4ae4-9732-a4eb615643f9",
             "Value": {
                 "id": "7b82b997-9244-4106-8972-7ec57125a1ac",
@@ -652,6 +660,14 @@
                 "id": "fadf79d1-fdc0-43a1-9953-8ce57ea3d34c",
                 "resourcePath": "sprites\/spr_creditos\/spr_creditos.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "b396c7f5-f3e8-45c6-ae48-5a148f905f81",
+                "resourcePath": "options\/tvos\/options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
             }
         },
         {

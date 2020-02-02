@@ -12,6 +12,8 @@ if ( argument0 == true || object_get_name(object_index) == "obj_electricista" ) 
 		y += vInput;
 
 	if(hInput != 0 or vInput !=0){
+		if (!audio_is_playing(snd_pasos)) audio_play_sound(snd_pasos, 4, false);
+		
 		dir = point_direction(0,0,hInput, vInput);
 		moveX = lengthdir_x(spd, dir);
 		moveY = lengthdir_y(spd, dir);
@@ -36,5 +38,6 @@ if ( argument0 == true || object_get_name(object_index) == "obj_electricista" ) 
 		}
 	} else {
 		image_index = 0;
+		audio_stop_sound(snd_pasos);
 	}
 }
