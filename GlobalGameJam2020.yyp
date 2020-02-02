@@ -447,6 +447,14 @@
             }
         },
         {
+            "Key": "84459086-9e0b-4ae4-9732-a4eb615643f9",
+            "Value": {
+                "id": "7b82b997-9244-4106-8972-7ec57125a1ac",
+                "resourcePath": "objects\/obj_materiales_electricista\/obj_materiales_electricista.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "86ee6c2a-d43c-4dbc-aae3-afe7c2bf2948",
             "Value": {
                 "id": "2fc39ff5-7433-450e-93ea-27cd0fe83c0a",
@@ -916,6 +924,14 @@
                 "id": "95ef361b-7b18-454e-be2f-fe0aad4f8c86",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f450091a-e6d6-44e6-893a-2e9fcd29bdc8",
+            "Value": {
+                "id": "a37f0260-6b61-49b3-b2cc-8a87d68f5df9",
+                "resourcePath": "sprites\/spr_materiales_electricista\/spr_materiales_electricista.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
