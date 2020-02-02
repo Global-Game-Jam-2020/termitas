@@ -3,3 +3,4 @@
 scr_materiales();
 if (personajeActual)
 	scr_movimiento(luzEncedida);
+src_recoleccion_piedrero();
