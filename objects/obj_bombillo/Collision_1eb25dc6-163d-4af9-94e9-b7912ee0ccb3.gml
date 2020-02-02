@@ -9,8 +9,7 @@ if keyboard_check_pressed(vk_space)
 		obj_bombillo.estaPrendido=true;
 		obj_luz.estaPrendido=true;
 		obj_juego.BombillosPrendidos=obj_juego.BombillosPrendidos+1;
-			
-	    
+		obj_electricista.materiales -= 1;	    
 	}
 	
 	
