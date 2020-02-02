@@ -306,7 +306,7 @@
             "Key": "67231c4a-be1b-481d-a03a-725183dde8d4",
             "Value": {
                 "id": "55c4286e-4533-4ff2-8960-e6c1f2f35a94",
-                "resourcePath": "sounds\\snd_termita_minera\\snd_termita_minera.yy",
+                "resourcePath": "sounds\/snd_termita_minera\/snd_termita_minera.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -314,7 +314,7 @@
             "Key": "67e848cd-c0a5-43c2-924f-93e14c7f4ff0",
             "Value": {
                 "id": "bc6d3f49-0c9f-4861-96ea-fcd95e8707b3",
-                "resourcePath": "sounds\\snd_termita_electricista\\snd_termita_electricista.yy",
+                "resourcePath": "sounds\/snd_termita_electricista\/snd_termita_electricista.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -396,6 +396,14 @@
                 "id": "7e06477b-0445-4f43-824e-d6f5801b0650",
                 "resourcePath": "objects\/obj_electricista\/obj_electricista.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7d70887e-1aa8-4225-ba82-e74bd0dc7240",
+            "Value": {
+                "id": "70e23fb7-b008-4dd7-b0b1-88016feb1c3b",
+                "resourcePath": "sounds\/snd_termita_piedrera\/snd_termita_piedrera.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -650,7 +658,7 @@
             "Key": "bbf80cfd-9d7b-4f11-91f6-7e6decdae706",
             "Value": {
                 "id": "39d07f7b-b17e-4209-833a-9d076a7195a6",
-                "resourcePath": "sprites\\sprite30\\sprite30.yy",
+                "resourcePath": "sprites\/sprite30\/sprite30.yy",
                 "resourceType": "GMSprite"
             }
         },
