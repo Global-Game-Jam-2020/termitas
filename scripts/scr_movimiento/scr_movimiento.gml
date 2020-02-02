@@ -24,20 +24,34 @@ if ( argument0 == true || object_get_name(object_index) == "obj_electricista" ) 
 		if place_empty(x, y + moveY, oIso2)
 		y += moveY;
 	
-		
-		//set sprite
-		switch(dir){
-			case 0: sprite_index = s_player_r; break;
-			case 45: sprite_index = s_player_ur; break;
-			case 90: sprite_index = s_player_u; break;
-			case 135: sprite_index = s_player_ul; break;
-			case 180: sprite_index = s_player_l; break;
-			case 225: sprite_index = s_player_dl; break;
-			case 270: sprite_index = s_player_d; break;
-			case 315: sprite_index = s_player_dr; break;
 		}
-	} else {
+		else {
 		image_index = 0;
 		audio_stop_sound(snd_pasos);
 	}
+		//set sprite
+	////
+	if keyboard_check(vk_left) 
+   {
+   
+   image_xscale=1;	   
+	
+	
+	
+   }
+   else
+   {
+	   image_xscale=-1;
+	   
+   }
+
+   
+   
+   
+
+
+	/////////
+
+	 
 }
+		
