@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "1bff7560-099c-40a8-950b-0b47cc70b0a9",
-            "Value": {
-                "id": "4f3a5c6b-e1c8-46b6-bcd3-b072b9e04450",
-                "resourcePath": "objects\\camara\\camara.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "2363fe92-a794-4b6c-a5df-3266975e1639",
             "Value": {
                 "id": "3392c565-ae3e-4b5f-8199-9f4a44a3000d",
@@ -732,6 +724,14 @@
                 "id": "61d972ca-52fe-4320-8e5a-e980f1f4bbbb",
                 "resourcePath": "sprites\/spr_materiales_minero\/spr_materiales_minero.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd24b53e-81e8-423b-b020-a086da4270ec",
+            "Value": {
+                "id": "b9d97881-a969-4485-8d88-f34e0d4fcde6",
+                "resourcePath": "objects\\objDarkroom\\objDarkroom.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
