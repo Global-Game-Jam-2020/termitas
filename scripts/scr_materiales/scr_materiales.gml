@@ -47,6 +47,7 @@ if (object_get_name(object_index) == "obj_minero") {
 		keyboard_check_pressed(vk_space) &&
 		!obj_piedra.estaDestruida
 	) {
+		audio_play_sound(snd_termita_minera,1,0);
 		obj_minero.materiales -= 1;
 		obj_piedra.estaDestruida  = true;
 	}

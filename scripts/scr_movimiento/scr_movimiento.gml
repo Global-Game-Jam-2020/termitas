@@ -15,7 +15,7 @@ if ( argument0 == true || object_get_name(object_index) == "obj_electricista" ) 
 		dir = point_direction(0,0,hInput, vInput);
 		moveX = lengthdir_x(spd, dir);
 		moveY = lengthdir_y(spd, dir);
-
+        
 		if place_empty(x+moveX, y, oIso2)
 		x += moveX;
 	

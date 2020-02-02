@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "67231c4a-be1b-481d-a03a-725183dde8d4",
+            "Value": {
+                "id": "55c4286e-4533-4ff2-8960-e6c1f2f35a94",
+                "resourcePath": "sounds\\snd_termita_minera\\snd_termita_minera.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6a6af689-bb59-4a46-b233-2ae872ea4c54",
             "Value": {
                 "id": "a2f5d551-7c5f-4fe6-b443-48c085920c20",
