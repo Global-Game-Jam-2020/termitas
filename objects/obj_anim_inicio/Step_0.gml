@@ -4,6 +4,7 @@ var i_index = image_index;
 if(i_index >= 59)
 {
 	image_speed = 0;
+	room_goto(r_One);
 }
 
 show_debug_message(i_index);
