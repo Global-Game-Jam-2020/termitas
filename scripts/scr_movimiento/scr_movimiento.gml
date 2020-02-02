@@ -22,7 +22,7 @@ if ( argument0 == true || object_get_name(object_index) == "obj_electricista" ) 
 		if place_empty(x, y + moveY, oIso2)
 		y += moveY;
 	
-
+		
 		//set sprite
 		switch(dir){
 			case 0: sprite_index = s_player_r; break;
