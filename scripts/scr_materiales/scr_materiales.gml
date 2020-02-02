@@ -68,8 +68,8 @@ if (object_get_name(object_index) == "obj_piedrero") {
 		keyboard_check_pressed(vk_space) &&
 		!obj_agua.tienePuente
 	) {
-		obj_electricista.materiales -= 1;
-		obj_bombillo.tienePuente  = true;
+		obj_piedrero.materiales -= 1;
+		obj_agua.tienePuente  = true;
 	}
 }
 	
