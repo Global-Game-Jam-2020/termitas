@@ -1,8 +1,8 @@
 {
-    "id": "33631528-4393-42d3-aee5-ca606099e954",
+    "id": "8af652d4-ef43-4152-98b1-e194cdea6ffd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_agua",
+    "name": "o_piedra_muchaTierra",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6b91a3da-26ce-498c-a175-9fc91edc1b1d",
+    "spriteId": "251b7ce3-e50f-45eb-8f27-32752cf967a3",
     "visible": true
 }

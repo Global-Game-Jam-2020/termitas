@@ -1,8 +1,8 @@
 {
-    "id": "33631528-4393-42d3-aee5-ca606099e954",
+    "id": "079ef21c-c425-4cf2-96c3-c2880d50f4dd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_agua",
+    "name": "o_piedra_tierra_muchoCesped",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6b91a3da-26ce-498c-a175-9fc91edc1b1d",
+    "spriteId": "6530861a-1c6f-420c-9705-ab9a7c9082e7",
     "visible": true
 }

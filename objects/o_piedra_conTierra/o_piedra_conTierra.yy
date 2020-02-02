@@ -1,8 +1,8 @@
 {
-    "id": "33631528-4393-42d3-aee5-ca606099e954",
+    "id": "567a13fb-f71f-41f7-bbc3-0b06e1f5b7a2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_agua",
+    "name": "o_piedra_conTierra",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6b91a3da-26ce-498c-a175-9fc91edc1b1d",
+    "spriteId": "6a6af689-bb59-4a46-b233-2ae872ea4c54",
     "visible": true
 }

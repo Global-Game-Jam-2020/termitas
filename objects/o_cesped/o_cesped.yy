@@ -1,8 +1,8 @@
 {
-    "id": "33631528-4393-42d3-aee5-ca606099e954",
+    "id": "6f73b974-28de-4407-9f7b-703fc89777f7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_agua",
+    "name": "o_cesped",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "6b91a3da-26ce-498c-a175-9fc91edc1b1d",
+    "spriteId": "e2fc7803-e233-40cc-ad71-6ac09ff0a899",
     "visible": true
 }
