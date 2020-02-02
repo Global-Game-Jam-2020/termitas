@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "30ac6f33-b7a5-4696-b373-4030e06d2e9f",
+            "Value": {
+                "id": "8b404ac0-e719-4459-aae7-3e74f619e7c5",
+                "resourcePath": "sounds\\snd_Termita_Sin_Materiaes\\snd_Termita_Sin_Materiaes.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "323bbe2e-b511-462e-85fd-72ca433998f8",
             "Value": {
                 "id": "42d6a83e-e87d-404d-98e4-f3ad2ab24039",
