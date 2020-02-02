@@ -250,7 +250,7 @@
             "Key": "30ac6f33-b7a5-4696-b373-4030e06d2e9f",
             "Value": {
                 "id": "8b404ac0-e719-4459-aae7-3e74f619e7c5",
-                "resourcePath": "sounds\\snd_Termita_Sin_Materiaes\\snd_Termita_Sin_Materiaes.yy",
+                "resourcePath": "sounds\/snd_Termita_Sin_Materiaes\/snd_Termita_Sin_Materiaes.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "59fa2cd2-926a-4f20-8dce-4ed2edd5db95",
+            "Value": {
+                "id": "958fecfa-b20f-4d46-b692-3366f031b5d2",
+                "resourcePath": "objects\/obj_creditos_salir\/obj_creditos_salir.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a47bd4c-3fd8-4170-b7f8-bc608aef8d3e",
             "Value": {
                 "id": "189a8ca0-4fed-46a1-a34d-40857528cfcc",
@@ -492,6 +500,14 @@
                 "id": "9124778c-d022-4e23-b59d-96f5dc09a552",
                 "resourcePath": "objects\/o_cesped\/o_cesped.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71f153f5-c8d2-4baf-87f3-67160a9ece15",
+            "Value": {
+                "id": "5ac8f9ab-fd0f-471c-bbf3-c5eeec980439",
+                "resourcePath": "rooms\/r_creditos\/r_creditos.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -732,6 +748,14 @@
                 "id": "5e30f719-446a-4391-a3e7-debbb3d8ff1b",
                 "resourcePath": "sprites\/sprite38\/sprite38.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9940a91e-40fe-4876-bb19-60ceeb3e2360",
+            "Value": {
+                "id": "29961b59-67b9-4dc3-aed5-83f9c868d6eb",
+                "resourcePath": "sounds\/snd_tema_creditos\/snd_tema_creditos.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1051,6 +1075,14 @@
             "Value": {
                 "id": "555ce585-82a2-458c-b2fa-af70e8006c24",
                 "resourcePath": "sprites\/spr_piedrero\/spr_piedrero.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d049f26f-e5bf-4693-a473-5cc4952f866f",
+            "Value": {
+                "id": "0911222d-c76e-485f-976f-7415e8ad436d",
+                "resourcePath": "sprites\/spr_cerrar\/spr_cerrar.yy",
                 "resourceType": "GMSprite"
             }
         },
