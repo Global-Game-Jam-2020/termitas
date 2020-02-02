@@ -1,3 +1,4 @@
- /// @description Insert description here
+  /// @description Insert description here
 // You can write your code in this editor
-room_goto(r_Anim_Inicio); 
+//room_goto(r_One1); 
+room_goto_next();
