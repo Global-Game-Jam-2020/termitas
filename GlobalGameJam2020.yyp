@@ -50,7 +50,7 @@
             "Key": "016c9b4d-1adf-459f-9093-16224715f55a",
             "Value": {
                 "id": "3768c07c-55b0-46e6-b21e-9641c736a1e3",
-                "resourcePath": "objects\\o_piedra\\o_piedra.yy",
+                "resourcePath": "objects\/o_piedra\/o_piedra.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "079ef21c-c425-4cf2-96c3-c2880d50f4dd",
             "Value": {
                 "id": "b67ae1d7-177a-4845-830a-29ab018d09e8",
-                "resourcePath": "objects\\o_piedra_tierra_muchoCesped\\o_piedra_tierra_muchoCesped.yy",
+                "resourcePath": "objects\/o_piedra_tierra_muchoCesped\/o_piedra_tierra_muchoCesped.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "08b317a5-7c09-484a-bb18-b780aa433923",
             "Value": {
                 "id": "8f71bfef-d904-4354-9d11-125ed630d863",
-                "resourcePath": "objects\\o_player\\o_player.yy",
+                "resourcePath": "objects\/o_player\/o_player.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -186,7 +186,7 @@
             "Key": "251b7ce3-e50f-45eb-8f27-32752cf967a3",
             "Value": {
                 "id": "f51d7e13-54ee-4374-a422-d2c4b9ed14f4",
-                "resourcePath": "sprites\\s_piedra_muchaTierra\\s_piedra_muchaTierra.yy",
+                "resourcePath": "sprites\/s_piedra_muchaTierra\/s_piedra_muchaTierra.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -195,14 +195,6 @@
             "Value": {
                 "id": "415fe16e-5145-4c95-a023-a12ab3a3e1f1",
                 "resourcePath": "views\\272fdba3-cf82-4558-807a-5f9abf0d9035.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "2c8708ba-b9b2-4d94-b05f-f2cae686b0a6",
-            "Value": {
-                "id": "ff10e45f-5747-44f9-bccf-d155d566e702",
-                "resourcePath": "views\\2c8708ba-b9b2-4d94-b05f-f2cae686b0a6.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -258,7 +250,7 @@
             "Key": "33631528-4393-42d3-aee5-ca606099e954",
             "Value": {
                 "id": "c46a3386-4880-4523-8e8c-edcee9eaf67d",
-                "resourcePath": "objects\\obj_agua\\obj_agua.yy",
+                "resourcePath": "objects\/obj_agua\/obj_agua.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -271,10 +263,18 @@
             }
         },
         {
+            "Key": "36b2a276-be04-4147-b3b0-9ac5a24429cb",
+            "Value": {
+                "id": "5435959c-8f29-413d-99f4-04bfb8b6e229",
+                "resourcePath": "views\\9585d470-a438-4009-9065-6595e2a935c6-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "38dd0aa7-0caf-4c7d-8b03-7497eae5bb33",
             "Value": {
                 "id": "784e1c4c-f7a9-4c7a-bd0a-455b7fcc5bce",
-                "resourcePath": "views\\38dd0aa7-0caf-4c7d-8b03-7497eae5bb33.yy",
+                "resourcePath": "views\/38dd0aa7-0caf-4c7d-8b03-7497eae5bb33.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -359,10 +359,18 @@
             }
         },
         {
+            "Key": "55af06d8-9a23-491d-8e8f-69658f30ec4d",
+            "Value": {
+                "id": "c04356c5-3d0f-4150-961b-5cbcb367d022",
+                "resourcePath": "views\\d08cbe4f-4b7d-4eef-9c53-960527925eb0-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "567a13fb-f71f-41f7-bbc3-0b06e1f5b7a2",
             "Value": {
                 "id": "a4a75437-fcdc-460f-baf3-3920083c681d",
-                "resourcePath": "objects\\o_piedra_conTierra\\o_piedra_conTierra.yy",
+                "resourcePath": "objects\/o_piedra_conTierra\/o_piedra_conTierra.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -418,15 +426,31 @@
             "Key": "6530861a-1c6f-420c-9705-ab9a7c9082e7",
             "Value": {
                 "id": "a2586148-341e-45a7-b240-7fa62069457a",
-                "resourcePath": "sprites\\s_piedra_tierra_muchoCesped\\s_piedra_tierra_muchoCesped.yy",
+                "resourcePath": "sprites\/s_piedra_tierra_muchoCesped\/s_piedra_tierra_muchoCesped.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67231c4a-be1b-481d-a03a-725183dde8d4",
+            "Value": {
+                "id": "55c4286e-4533-4ff2-8960-e6c1f2f35a94",
+                "resourcePath": "sounds\/snd_termita_minera\/snd_termita_minera.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "67e848cd-c0a5-43c2-924f-93e14c7f4ff0",
+            "Value": {
+                "id": "bc6d3f49-0c9f-4861-96ea-fcd95e8707b3",
+                "resourcePath": "sounds\/snd_termita_electricista\/snd_termita_electricista.yy",
+                "resourceType": "GMSound"
             }
         },
         {
             "Key": "6a6af689-bb59-4a46-b233-2ae872ea4c54",
             "Value": {
                 "id": "a2f5d551-7c5f-4fe6-b443-48c085920c20",
-                "resourcePath": "sprites\\s_piedra_conTierra\\s_piedra_conTierra.yy",
+                "resourcePath": "sprites\/s_piedra_conTierra\/s_piedra_conTierra.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -434,7 +458,7 @@
             "Key": "6b91a3da-26ce-498c-a175-9fc91edc1b1d",
             "Value": {
                 "id": "3b153eb0-3a47-4794-a6e4-d31c44e9b9da",
-                "resourcePath": "sprites\\spr_agua\\spr_agua.yy",
+                "resourcePath": "sprites\/spr_agua\/spr_agua.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -450,7 +474,7 @@
             "Key": "6f73b974-28de-4407-9f7b-703fc89777f7",
             "Value": {
                 "id": "9124778c-d022-4e23-b59d-96f5dc09a552",
-                "resourcePath": "objects\\o_cesped\\o_cesped.yy",
+                "resourcePath": "objects\/o_cesped\/o_cesped.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -474,7 +498,7 @@
             "Key": "7532bd80-ffa6-4b9b-8d11-df8623c3f026",
             "Value": {
                 "id": "09031e76-d39d-4e80-8717-749d50e54ac5",
-                "resourcePath": "objects\\o_piedra_tierra\\o_piedra_tierra.yy",
+                "resourcePath": "objects\/o_piedra_tierra\/o_piedra_tierra.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -519,6 +543,14 @@
             }
         },
         {
+            "Key": "7d70887e-1aa8-4225-ba82-e74bd0dc7240",
+            "Value": {
+                "id": "70e23fb7-b008-4dd7-b0b1-88016feb1c3b",
+                "resourcePath": "sounds\/snd_termita_piedrera\/snd_termita_piedrera.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "5083b2c7-3612-40bf-ab84-19d6353d2b27",
@@ -530,7 +562,7 @@
             "Key": "7e3c7473-a0b7-49e8-bd4f-269d0698cf61",
             "Value": {
                 "id": "9c69e121-819b-41bd-8aa6-97d05a39f71f",
-                "resourcePath": "sprites\\s_piedra_tierra_agua\\s_piedra_tierra_agua.yy",
+                "resourcePath": "sprites\/s_piedra_tierra_agua\/s_piedra_tierra_agua.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -562,7 +594,7 @@
             "Key": "86ee6c2a-d43c-4dbc-aae3-afe7c2bf2948",
             "Value": {
                 "id": "2fc39ff5-7433-450e-93ea-27cd0fe83c0a",
-                "resourcePath": "objects\\o_aguaTop\\o_aguaTop.yy",
+                "resourcePath": "objects\/o_aguaTop\/o_aguaTop.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -578,7 +610,7 @@
             "Key": "8af652d4-ef43-4152-98b1-e194cdea6ffd",
             "Value": {
                 "id": "6c392675-9e63-4898-8f90-299978239a30",
-                "resourcePath": "objects\\o_piedra_muchaTierra\\o_piedra_muchaTierra.yy",
+                "resourcePath": "objects\/o_piedra_muchaTierra\/o_piedra_muchaTierra.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -625,7 +657,7 @@
         {
             "Key": "9585d470-a438-4009-9065-6595e2a935c6",
             "Value": {
-                "id": "b192958a-76c7-41d0-80e1-96c26dda9b9d",
+                "id": "22baefc4-1b7b-4eee-a19d-20cff23191c4",
                 "resourcePath": "rooms\/room0\/room0.yy",
                 "resourceType": "GMRoom"
             }
@@ -650,7 +682,7 @@
             "Key": "974afbeb-98e6-485c-baa1-67ae04118021",
             "Value": {
                 "id": "28c71381-ca2e-4e12-9384-92361c13b16c",
-                "resourcePath": "sprites\\s_piedra\\s_piedra.yy",
+                "resourcePath": "sprites\/s_piedra\/s_piedra.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -743,6 +775,14 @@
             }
         },
         {
+            "Key": "a320b754-d9ab-4329-8794-a5ffe24d591d",
+            "Value": {
+                "id": "795b397d-d6ce-4d08-a22d-4ae9a8429d92",
+                "resourcePath": "views\/a320b754-d9ab-4329-8794-a5ffe24d591d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a3d65778-126f-49ef-8de8-20ea765872fb",
             "Value": {
                 "id": "cc1f1edd-8d6f-4e5c-a1b4-f68f032de94a",
@@ -786,7 +826,7 @@
             "Key": "ac3e5fb8-5959-4596-a576-2d335f8a20cf",
             "Value": {
                 "id": "b662ec5d-5bec-4c5e-bae8-8e6eff604b56",
-                "resourcePath": "sprites\\s_aguaTop\\s_aguaTop.yy",
+                "resourcePath": "sprites\/s_aguaTop\/s_aguaTop.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -847,6 +887,14 @@
             }
         },
         {
+            "Key": "bbf80cfd-9d7b-4f11-91f6-7e6decdae706",
+            "Value": {
+                "id": "39d07f7b-b17e-4209-833a-9d076a7195a6",
+                "resourcePath": "sprites\/sprite30\/sprite30.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bcdd0ea4-7c10-400e-b90a-abafb98f6214",
             "Value": {
                 "id": "5862c79b-e26e-4cfc-82f1-60f4a6e6ec6c",
@@ -868,14 +916,6 @@
                 "id": "c3eae509-19e0-4dfa-9c9f-c81c0f139ef6",
                 "resourcePath": "sprites\\spr_taladro_broca\\spr_taladro_broca.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "bee3fe7d-7a24-4e4b-a8e0-518b36ce9341",
-            "Value": {
-                "id": "806e6e41-1d3c-416a-8867-f1416ff20c9d",
-                "resourcePath": "views\/bee3fe7d-7a24-4e4b-a8e0-518b36ce9341.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -906,7 +946,7 @@
             "Key": "c389db92-f85c-47db-881c-c3a7d5b1498b",
             "Value": {
                 "id": "6a7b4325-160d-4fcf-a926-fb81006aeca2",
-                "resourcePath": "objects\\o_piedra_tierra_agua\\o_piedra_tierra_agua.yy",
+                "resourcePath": "objects\/o_piedra_tierra_agua\/o_piedra_tierra_agua.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -970,7 +1010,7 @@
             "Key": "ccf4db71-290c-4a3b-8fee-d91eb9a1b1ab",
             "Value": {
                 "id": "8bc744ac-04e3-424c-a658-193358ca6277",
-                "resourcePath": "objects\\o_piedra_agua\\o_piedra_agua.yy",
+                "resourcePath": "objects\/o_piedra_agua\/o_piedra_agua.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1015,22 +1055,6 @@
             }
         },
         {
-            "Key": "d4130e4f-e4f2-419d-a171-fac476a1a2c5",
-            "Value": {
-                "id": "7cfb968f-02f8-4891-8449-3ba5e8f43b3e",
-                "resourcePath": "views\/d4130e4f-e4f2-419d-a171-fac476a1a2c5.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "d9d185f3-1612-4073-a4e3-d8f5807e5e4a",
-            "Value": {
-                "id": "5a7dbdbd-805a-4cd4-81c8-e863e2a48f45",
-                "resourcePath": "views\\d9d185f3-1612-4073-a4e3-d8f5807e5e4a.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "dabcc27c-56a3-48ff-83fa-5fc7011aba1f",
             "Value": {
                 "id": "1653a571-19a3-486a-8e47-1e7c91617d38",
@@ -1042,7 +1066,7 @@
             "Key": "dd4e8f83-1755-4ba6-bb19-64c6e5e9627d",
             "Value": {
                 "id": "66db17a3-1ff6-4059-b1a1-351854a31160",
-                "resourcePath": "sprites\\s_cesped_agua\\s_cesped_agua.yy",
+                "resourcePath": "sprites\/s_cesped_agua\/s_cesped_agua.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1082,7 +1106,7 @@
             "Key": "e2fc7803-e233-40cc-ad71-6ac09ff0a899",
             "Value": {
                 "id": "9a84d7ea-b088-4d05-883a-58de272fbe72",
-                "resourcePath": "sprites\\s_cesped\\s_cesped.yy",
+                "resourcePath": "sprites\/s_cesped\/s_cesped.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1111,19 +1135,19 @@
             }
         },
         {
+            "Key": "e560e30e-1347-410c-ad9c-519260fc859f",
+            "Value": {
+                "id": "89d4a18d-928d-4bc9-89eb-d79af891b1ab",
+                "resourcePath": "sounds\/snd_pasos\/snd_pasos.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e5eeedd9-1ad6-459e-bb7d-23baf5988cef",
             "Value": {
                 "id": "4d391eae-7dda-48b2-bdb3-ec01169f366b",
                 "resourcePath": "sounds\/snd_tema_juego\/snd_tema_juego.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "e871d635-1e67-4f5e-828d-57d1c0dfb68f",
-            "Value": {
-                "id": "df865128-dd2a-4274-82e0-0425a0262f1c",
-                "resourcePath": "views\\e871d635-1e67-4f5e-828d-57d1c0dfb68f.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -1138,7 +1162,7 @@
             "Key": "ea90672a-4f61-48b5-acdf-f1d6c4e0daed",
             "Value": {
                 "id": "773dc0e3-3d33-46c2-93b4-e273b34cefa1",
-                "resourcePath": "sprites\\s_piedra_tierra\\s_piedra_tierra.yy",
+                "resourcePath": "sprites\/s_piedra_tierra\/s_piedra_tierra.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1154,7 +1178,7 @@
             "Key": "ec967c20-4519-49c4-9eb0-c7cf790caf45",
             "Value": {
                 "id": "c8608ae6-c841-40e6-9a42-1c3d548fb18e",
-                "resourcePath": "sprites\\s_piedra_agua\\s_piedra_agua.yy",
+                "resourcePath": "sprites\/s_piedra_agua\/s_piedra_agua.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1186,7 +1210,7 @@
             "Key": "f0192908-4ed9-41a9-946f-6934b4b08471",
             "Value": {
                 "id": "a9d57554-bd23-4a01-8d19-838dae8267b4",
-                "resourcePath": "rooms\\r_One\\r_One.yy",
+                "resourcePath": "rooms\/r_One\/r_One.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1194,7 +1218,7 @@
             "Key": "f3448351-c43b-46f7-bab5-97fcacac3c98",
             "Value": {
                 "id": "45bea096-ccc8-4025-86b8-0007930c0f1c",
-                "resourcePath": "objects\\o_cesped_agua\\o_cesped_agua.yy",
+                "resourcePath": "objects\/o_cesped_agua\/o_cesped_agua.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1231,14 +1255,6 @@
             }
         },
         {
-            "Key": "f6d63197-d3e2-437a-9b3b-a29f8e0e0311",
-            "Value": {
-                "id": "a3faab16-86df-4858-8b70-9616357ec0cd",
-                "resourcePath": "sprites\\s_termita\\s_termita.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f8b01255-d8ed-4b13-8e06-90f84fbf7fae",
             "Value": {
                 "id": "61d972ca-52fe-4320-8e5a-e980f1f4bbbb",
@@ -1255,11 +1271,27 @@
             }
         },
         {
+            "Key": "fb3d2b3e-8020-4756-b420-b20d1a34f171",
+            "Value": {
+                "id": "b0fc7d0a-17bd-4b97-a476-a464e2e9bcd8",
+                "resourcePath": "objects\/obj_camara\/obj_camara.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fbad21b5-4c8c-44d4-b86e-ce8c4df30954",
             "Value": {
                 "id": "459826fa-1914-4f21-8847-13aa6b1f667f",
                 "resourcePath": "sprites\\spr_piedrero_trabaja\\spr_piedrero_trabaja.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd24b53e-81e8-423b-b020-a086da4270ec",
+            "Value": {
+                "id": "b9d97881-a969-4485-8d88-f34e0d4fcde6",
+                "resourcePath": "objects\/objDarkroom\/objDarkroom.yy",
+                "resourceType": "GMObject"
             }
         },
         {

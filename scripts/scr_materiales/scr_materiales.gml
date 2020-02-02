@@ -20,8 +20,11 @@ if (object_get_name(object_index) == "obj_electricista") {
 		keyboard_check_pressed(vk_space) &&
 		!obj_bombillo.estaPrendido
 	) {
+		
 		obj_electricista.materiales -= 1;
+		
 		obj_bombillo.estaPrendido  = true;
+		
 	}
 }
 
@@ -47,6 +50,7 @@ if (object_get_name(object_index) == "obj_minero") {
 		keyboard_check_pressed(vk_space) &&
 		!obj_piedra.estaDestruida
 	) {
+		audio_play_sound(snd_termita_minera,1,0);
 		obj_minero.materiales -= 1;
 		obj_piedra.estaDestruida  = true;
 	}
@@ -68,8 +72,8 @@ if (object_get_name(object_index) == "obj_piedrero") {
 		keyboard_check_pressed(vk_space) &&
 		!obj_agua.tienePuente
 	) {
-		obj_electricista.materiales -= 1;
-		obj_bombillo.tienePuente  = true;
+		obj_piedrero.materiales -= 1;
+		obj_agua.tienePuente  = true;
 	}
 }
 	
