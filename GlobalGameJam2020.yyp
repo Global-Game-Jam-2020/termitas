@@ -335,14 +335,6 @@
             }
         },
         {
-            "Key": "480b8a87-e4be-40b1-a3b8-c7713dcf793b",
-            "Value": {
-                "id": "571cbe5f-78f9-47c6-90ba-9d3d7a88fab5",
-                "resourcePath": "rooms\/r_creditos\/r_creditos.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "4ae72161-f5ab-4831-b020-20f6afc828d7",
             "Value": {
                 "id": "be339586-d19c-481c-b308-4be5625676b2",
@@ -423,6 +415,14 @@
             }
         },
         {
+            "Key": "59fa2cd2-926a-4f20-8dce-4ed2edd5db95",
+            "Value": {
+                "id": "958fecfa-b20f-4d46-b692-3366f031b5d2",
+                "resourcePath": "objects\/obj_creditos_salir\/obj_creditos_salir.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a47bd4c-3fd8-4170-b7f8-bc608aef8d3e",
             "Value": {
                 "id": "189a8ca0-4fed-46a1-a34d-40857528cfcc",
@@ -500,6 +500,14 @@
                 "id": "9124778c-d022-4e23-b59d-96f5dc09a552",
                 "resourcePath": "objects\/o_cesped\/o_cesped.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "71f153f5-c8d2-4baf-87f3-67160a9ece15",
+            "Value": {
+                "id": "5ac8f9ab-fd0f-471c-bbf3-c5eeec980439",
+                "resourcePath": "rooms\/r_creditos\/r_creditos.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
