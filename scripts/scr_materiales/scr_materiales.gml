@@ -24,18 +24,6 @@ if (object_get_name(object_index) == "obj_electricista") {
 		obj_bombillo.estaPrendido  = true;
 		
 	}
-	else
-	{
-		if (
-		place_meeting(obj_electricista.x, obj_electricista.y, obj_bombillo) && 
-		obj_electricista.materiales = 0 &&
-		keyboard_check_pressed(vk_space) &&
-		!obj_bombillo.estaPrendido
-	) 
-	{
-		audio_play_sound(snd_Termita_Sin_Materiaes,1,0);
-	}
-	}
 }
 
 if (object_get_name(object_index) == "obj_minero") {
@@ -64,7 +52,6 @@ if (object_get_name(object_index) == "obj_minero") {
 		obj_minero.materiales -= 1;
 		obj_piedra.estaDestruida  = true;
 	}
-	
 }
 
 if (object_get_name(object_index) == "obj_piedrero") {
