@@ -2,6 +2,10 @@
 // You can write your code in this editoraudio_play_sound(snd_puerta,2,false);
 if keyboard_check_pressed(vk_space)
 {
+	if(obj_electricista.materiales=0)
+	{
+		audio_play_sound(snd_Termita_Sin_Materiaes,1,0);
+	}
 	if(obj_electricista.materiales>0)
 	{
 		instance_create_depth(id.x,id.y,1,obj_luz);
@@ -10,9 +14,11 @@ if keyboard_check_pressed(vk_space)
 		obj_bombillo.estaPrendido=true;
 		obj_luz.estaPrendido=true;
 		obj_juego.BombillosPrendidos=obj_juego.BombillosPrendidos+1;
-			
-	}
-	
+
+		
+		obj_electricista.materiales -= 1;	    
+}
+		
 	
 }
 if(obj_juego.BombillosPrendidos>=3)
@@ -22,3 +28,5 @@ if(obj_juego.BombillosPrendidos>=3)
 	draw_clear_alpha(1,0) 
 	surface_free(objDarkroom.surf);
 }
+
+
