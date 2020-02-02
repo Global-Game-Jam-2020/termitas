@@ -17,9 +17,11 @@ if (surface_exists(surf)) {
         draw_circle(x + random_range(-0.5, 0.5), y-30 + random_range(-0.5, 0.5), 40+ random_range(-0.5, 0.5), false);
             
     with (obj_luz)
+	   if(obj_bombillo.estaPrendido=true)
+	   {
         if (image_xscale > 0.25)
             draw_circle(x + random_range(-0.5, 0.5), y + random_range(-0.5, 0.5), 100 + random_range(-0.5, 0.5), false);
-    
+	   }
    
     gpu_set_blendmode(bm_normal);
     draw_set_alpha(1);

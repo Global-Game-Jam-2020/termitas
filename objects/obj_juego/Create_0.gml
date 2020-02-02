@@ -5,4 +5,5 @@ view_visible[2]=0;
 obj_minero.materiales = 2;
 obj_electricista.materiales = 2;
 obj_piedrero.materiales = 0;
-obj_luz.visible=false;
+cantidadBombillos=3;
+BombillosPrendidos=0;

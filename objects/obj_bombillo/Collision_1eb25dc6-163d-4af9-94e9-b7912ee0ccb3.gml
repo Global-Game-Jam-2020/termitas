@@ -5,7 +5,9 @@ if keyboard_check_pressed(vk_space)
 	if(obj_electricista.materiales>0)
 	{
 		audio_play_sound(snd_termita_electricista,1,false);
-		obj_luz.visible=true;
+		obj_bombillo.estaPrendido=true;
+		obj_luz.estaPrendido=true;
+	
 	}
 	
 	
