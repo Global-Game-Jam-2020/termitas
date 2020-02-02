@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "67e848cd-c0a5-43c2-924f-93e14c7f4ff0",
+            "Value": {
+                "id": "bc6d3f49-0c9f-4861-96ea-fcd95e8707b3",
+                "resourcePath": "sounds\\snd_termita_electricista\\snd_termita_electricista.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6a6af689-bb59-4a46-b233-2ae872ea4c54",
             "Value": {
                 "id": "a2f5d551-7c5f-4fe6-b443-48c085920c20",
@@ -635,6 +643,14 @@
             "Value": {
                 "id": "8802d5de-93f7-4024-9006-f13f24dfcf51",
                 "resourcePath": "sprites\/sIso2\/sIso2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bbf80cfd-9d7b-4f11-91f6-7e6decdae706",
+            "Value": {
+                "id": "39d07f7b-b17e-4209-833a-9d076a7195a6",
+                "resourcePath": "sprites\\sprite30\\sprite30.yy",
                 "resourceType": "GMSprite"
             }
         },
