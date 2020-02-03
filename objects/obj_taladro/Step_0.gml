@@ -9,3 +9,5 @@ switch(obj_taladro.piezas) {
 		break;
 }
 
+if piezas == 3
+	room_goto(r_final);

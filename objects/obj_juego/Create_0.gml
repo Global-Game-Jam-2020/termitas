@@ -8,3 +8,5 @@ obj_piedrero.materiales = 0;
 //cantidadBombillos=3;
 BombillosPrendidos=0;
 //oscuridad=true;
+if room == r_One11
+	room_goto_next();

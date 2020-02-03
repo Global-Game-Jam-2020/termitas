@@ -5,16 +5,6 @@
     "name": "obj_start_game",
     "eventList": [
         {
-            "id": "7ddd8cf8-d0e7-4418-ad18-818cf4f1f83d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "c28ee1f6-105e-4131-9dd4-2723caa004cf"
-        },
-        {
             "id": "55e9f5db-22a8-42e3-bc22-783ccbba92c8",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -25,13 +15,13 @@
             "m_owner": "c28ee1f6-105e-4131-9dd4-2723caa004cf"
         },
         {
-            "id": "dfe74703-cc73-47db-bced-580b89499702",
+            "id": "7f8ca2e0-af22-4007-abf5-95a61c1d1444",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 9,
+            "enumb": 0,
+            "eventtype": 6,
             "m_owner": "c28ee1f6-105e-4131-9dd4-2723caa004cf"
         }
     ],
